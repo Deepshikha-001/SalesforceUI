@@ -1,23 +1,23 @@
-##Salesforce Landing Page Clone
+## Salesforce Landing Page Clone
 
-#📌 Project Overview
+# 📌 Project Overview
 
 This project is a front-end clone of the Salesforce homepage created using pure HTML and CSS. The goal of this project is to practice layout structuring and styling techniques.
 
-#🎯 Objectives
+# 🎯 Objectives
 
 -Improve HTML and CSS skills
 -Understand modern website layouts
 -Practice responsive design techniques
 -Recreate a professional business website interface
 
-#✨ Features
+# ✨ Features
 
 -Multi-section landing page layout
 -Modern UI inspired by Salesforce
 -Clean and organized code structure
 
-#📂 Project Structure
+# 📂 Project Structure
 
 ```
 SalesforceUI/
